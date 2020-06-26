@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@polkadot/api/augment": ["./node_modules/edgeware-node-types/dist/augment-api.d.ts"],
+        "@polkadot/types/augment": ["./node_modules/edgeware-node-types/dist/augment-types.d.ts"],
+      }
+    },
+    "include": [
+      "./src"
+    ],
+    "exclude": [
+      "./node_modules",
+    ]
+  }

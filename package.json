@@ -1,0 +1,16 @@
+{
+  "name": "edgeware-accounts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/drewstone/edgeware-accounts.git",
+  "author": "<drewstone329@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node -P ./tsconfig.json src/index.ts"
+  },
+  "dependencies": {
+    "@polkadot/api": "^1.21.1",
+    "edgeware-node-types": "^2.3.0",
+    "rxjs": "^6.5.5"
+  }
+}
