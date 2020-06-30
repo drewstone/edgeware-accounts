@@ -8,11 +8,20 @@ const local = 'ws://localhost:9944';
 
 program
   .name('edgeware-accounts')
-  .usage('-u <url> -t <timeout>')
-  .option('-u, --url <url>', 'URL of Substrate node to connect to')
+  .usage('-p -s -u <url> -t <timeout>')
+  .option('-u, --url <url>', 'URL of Substrate node to connect to (defaults to "ws://localhost:9944")')
   .option('-s, --subscribe', 'To subscribe from the chain head')
   .option('-p, --poll', 'To poll to the chain head')
   .option('-t, --timeout <timeout>', 'Timeout from subscribing from the chain head')
+  .on('--help', function() {
+    console.log('');
+    console.log('Examples:');
+    console.log('');
+    console.log('  Subscribe on local       $ yarn start -s');
+    console.log('  Subscribe on Edgeware    $ yarn start -s -u edgeware');
+    console.log('  Poll on local            $ yarn start -p');
+    console.log('');
+  })
   .parse(process.argv);
 
 const programOptions = program.opts();
