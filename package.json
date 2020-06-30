@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@polkadot/api": "^1.21.1",
+    "commander": "^5.1.0",
     "edgeware-node-types": "^2.3.0",
     "rxjs": "^6.5.5"
   }
