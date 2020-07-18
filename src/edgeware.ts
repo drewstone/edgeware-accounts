@@ -1,4 +1,4 @@
-import { ApiRx, WsProvider } from '@polkadot/api';
+import { Keyring, ApiRx, WsProvider } from '@polkadot/api';
 import * as edgewareDefinitions from 'edgeware-node-types/dist/definitions';
 
 import { SignedBlock } from '@polkadot/types/interfaces/runtime';
@@ -46,13 +46,12 @@ const parseBlock = (signedBlock: SignedBlock, cb) => {
   const extrinsics = signedBlock.block.extrinsics;
   // get accounts from extrinsics
   extrinsics.toArray().forEach(e => {
-    console.log(e.toHuman());
     // store signer account in map
     let signer;
     const others = [];
 
     if (e.signer.toHex() !== '0x00') {
-      signer = e.signer.toHuman();
+      signer = e.signer;
     }
 
     let other = parseAccountFromArgs(e.method);
@@ -66,25 +65,49 @@ const parseBlock = (signedBlock: SignedBlock, cb) => {
       })
     }
 
-    cb({ signer, others })
+    cb({ signer, others, block: signedBlock })
   });
 };
 
-export const pollAllAccounts = async (api: ApiRx, cb: Function) => {
-  const highest = (await api.rpc.chain.getBlock().toPromise())
-    .block.header.number.toNumber();
-
-  for (let i = highest; i > 0; i--) {
-    // returns Hash
-    const blockHash = await api.rpc.chain.getBlockHash(i).toPromise();
-    const signedBlock = await api.rpc.chain.getBlock(blockHash).toPromise();
-    parseBlock(signedBlock, cb);
+export const pollAllAccounts = async (api: ApiRx, cb: Function, top: number) => {
+  console.log(`Highest ${top}`);
+  for (let i = top; i > 0; i--) {
+    if (i % 10000 === 0) console.log(i);
+    try {
+      // returns Hash
+      const blockHash = await api.rpc.chain.getBlockHash(i).toPromise();
+      const signedBlock = await api.rpc.chain.getBlock(blockHash).toPromise();
+      parseBlock(signedBlock, cb);
+    } catch (e) {
+      console.log(`Failed on block ${i}`);
+    }
   }
 }
 
-export const subscribeToAccounts = (api: ApiRx, cb: Function) => {
-  api.rpc.chain.subscribeNewHeads().subscribe(async (header) => {
-    const signedBlock = await api.rpc.chain.getBlock(header.hash).toPromise();
-    parseBlock(signedBlock, cb);
-  })
+export const subscribeToAccounts = (api: ApiRx, cb: Function, top: number = 2500000) => {
+  return new Promise((resolve) => {
+    api.rpc.chain.subscribeNewHeads().subscribe(async (header) => {
+      try {
+        const signedBlock = await api.rpc.chain.getBlock(header.hash).toPromise();
+        if (signedBlock.block.header.number.toNumber() >= top) {
+          resolve();
+        } else {
+          parseBlock(signedBlock, cb);  
+        }
+      } catch (e) {
+        console.log(`Failed to parse block`);
+      }
+    });
+  });
+}
+
+export const sampleAccounts = () => {
+  const defaultMnemonic = 'bottom drive obey lake curtain smoke basket hold race lonely fit walk';
+  const accounts = [
+    'Alice', 'Bob', 'Charlie', 'Dave', 'Eve', 'Ferdie',
+    'Alice//stash', 'Bob//stash', 'Charlie//stash', 'Dave//stash', 'Eve//stash', 'Ferdie//stash'
+  ];
+  return accounts.map(a => {
+    return (new Keyring({ ss58Format: 42, type: 'sr25519' })).addFromUri(`${defaultMnemonic}//${a}`).address  
+  });
 }

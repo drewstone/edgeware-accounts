@@ -6,6 +6,7 @@
   "author": "<drewstone329@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "convert": "ts-node -P ./tsconfig.json src/convertToSCALE.ts",
     "start": "ts-node -P ./tsconfig.json src/index.ts"
   },
   "dependencies": {

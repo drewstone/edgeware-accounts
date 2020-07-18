@@ -1,10 +1,12 @@
 import { program, option } from 'commander';
 import { switchMap } from 'rxjs/operators';
 import { ApiRx } from '@polkadot/api';
+import { Address } from '@polkadot/types/interfaces';
 import { of } from 'rxjs';
-import { eApi, subscribeToAccounts, pollAllAccounts, mainnet } from './edgeware';
+import { eApi, subscribeToAccounts, pollAllAccounts, mainnet, sampleAccounts } from './edgeware';
 
-const local = 'ws://localhost:9944';
+const fs = require('fs');
+export const local = 'ws://localhost:9944';
 
 program
   .name('edgeware-accounts')
@@ -26,10 +28,15 @@ program
 
 const programOptions = program.opts();
 
-const m: Set<string> = new Set();
-const cb = ({ signer, others }) => {
-  if (signer) m.add(signer);
-  if (others.length > 0) others.forEach(o => m.add(o));
+const m: Set<Address> = new Set();
+const cb = ({ signer, others, block }) => {
+  if (signer) {
+    m.add(signer)
+  };
+  if (others.length > 0) others.forEach(o => {
+    // console.log(o);
+    m.add(o);
+  });
 }
 
 const start = (options: {
@@ -43,18 +50,42 @@ const start = (options: {
   api.isReady.pipe(
     switchMap((api: ApiRx) => of(api)),
   ).subscribe(async (api: ApiRx) => {
+    const highest = (await api.rpc.chain.getBlock().toPromise())
+      .block.header.number.toNumber();
+
     if (options.poll) {
-      await pollAllAccounts(api, cb);
+      await pollAllAccounts(api, cb, highest);
     }
 
     if (options.subscribe) {
-      subscribeToAccounts(api, cb);
+      await subscribeToAccounts(api, cb, highest + 100000);
     }
+
+    writeToFile(api);
+    process.exit(0);
   })
+};
+
+const writeToFile = (api: ApiRx) => {  
+  const defaults = sampleAccounts();
+  const arr = [];
+  defaults.forEach(account => {
+    arr.push(account);
+  })
+
+  const iterator = m.values();
+  let curr = iterator.next();
+  while (!curr.done) {
+    arr.push(curr.value.toString());
+    curr = iterator.next();
+  }
+
+  fs.writeFileSync('./accounts.txt', api.createType('Vec<AccountId>', arr).toU8a());
 };
 
 start({
   url: programOptions.url,
-  subscribe: true,
+  subscribe: programOptions.subscribe,
+  poll: programOptions.poll,
   timeout: programOptions.timeout,
 });
