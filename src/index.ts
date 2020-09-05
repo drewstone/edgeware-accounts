@@ -3,7 +3,15 @@ import { switchMap } from 'rxjs/operators';
 import { ApiRx } from '@polkadot/api';
 import { Address } from '@polkadot/types/interfaces';
 import { of } from 'rxjs';
-import { eApi, subscribeToAccounts, pollAllAccounts, mainnet, sampleAccounts } from './edgeware';
+import {
+  eApi,
+  subscribeToAccounts,
+  pollAllAccounts,
+  mainnet,
+  sampleAccounts,
+  genesisAccounts,
+  testnetAccounts,
+} from './edgeware';
 
 const fs = require('fs');
 export const local = 'ws://localhost:9944';
@@ -68,10 +76,13 @@ const start = (options: {
 
 const writeToFile = (api: ApiRx) => {  
   const defaults = sampleAccounts();
-  const arr = [];
-  defaults.forEach(account => {
-    arr.push(account);
-  })
+  const genesisDefaults = genesisAccounts(api);
+  const testnetDefaults = testnetAccounts(api);
+  // Treasury module address
+  const arr = ['5EYCAe5ijiYfyeZ2JJCGq56LmPyNRAKzpG4QkoQkkQNB5e6Z'];
+  defaults.forEach(account => { arr.push(account); })
+  genesisDefaults.forEach(account => { arr.push(account); });
+  testnetDefaults.forEach(account => { arr.push(account); });
 
   const iterator = m.values();
   let curr = iterator.next();
@@ -79,8 +90,10 @@ const writeToFile = (api: ApiRx) => {
     arr.push(curr.value.toString());
     curr = iterator.next();
   }
-
-  fs.writeFileSync('./accounts.txt', api.createType('Vec<AccountId>', arr).toU8a());
+  fs.writeFileSync('./accounts.json', JSON.stringify({
+    accounts: arr,
+  }));
+  // fs.writeFileSync('./accounts.txt', api.createType('Vec<AccountId>', arr).toU8a().toString(), 'utf8');
 };
 
 start({
