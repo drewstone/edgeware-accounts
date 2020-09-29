@@ -12,17 +12,19 @@ import {
   genesisAccounts,
   testnetAccounts,
 } from './edgeware';
-
+import scrapeIdentities from './events';
 const fs = require('fs');
 export const local = 'ws://localhost:9944';
 
 program
-  .name('edgeware-accounts')
+  .name('edgeware-scraper')
   .usage('-p -s -u <url> -t <timeout>')
   .option('-u, --url <url>', 'URL of Substrate node to connect to (defaults to "ws://localhost:9944")')
   .option('-s, --subscribe', 'To subscribe from the chain head')
   .option('-p, --poll', 'To poll to the chain head')
   .option('-t, --timeout <timeout>', 'Timeout from subscribing from the chain head')
+  .option('-i, --identities', 'Flag to scrape identities into separate file')
+  .option('-e, --events', 'Scrap events from csvs')
   .on('--help', function() {
     console.log('');
     console.log('Examples:');
@@ -52,6 +54,7 @@ const start = (options: {
   poll?: boolean,
   subscribe?: boolean,
   timeout?: number,
+  events?: any,
 }) => {
   if (options.url === 'edgeware') options.url = mainnet
   const api = eApi(options.url || local);
@@ -61,12 +64,16 @@ const start = (options: {
     const highest = (await api.rpc.chain.getBlock().toPromise())
       .block.header.number.toNumber();
 
-    if (options.poll) {
-      await pollAllAccounts(api, cb, highest);
-    }
-
-    if (options.subscribe) {
-      await subscribeToAccounts(api, cb, highest + 100000);
+    if (options.events) {
+      await scrapeIdentities(api);
+    } else {
+      if (options.poll) {
+        await pollAllAccounts(api, cb, highest);
+      }
+  
+      if (options.subscribe) {
+        await subscribeToAccounts(api, cb, highest + 100000);
+      }
     }
 
     writeToFile(api);
@@ -101,4 +108,5 @@ start({
   subscribe: programOptions.subscribe,
   poll: programOptions.poll,
   timeout: programOptions.timeout,
+  events: programOptions.events,
 });

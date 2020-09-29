@@ -7,12 +7,16 @@
   "license": "MIT",
   "scripts": {
     "addmore": "ts-node -P ./tsconfig.json src/addMore.ts",
+    "scrape": "ts-node -P ./tsconfig.json src/index.ts --events",
     "start": "ts-node -P ./tsconfig.json src/index.ts"
   },
   "dependencies": {
     "@polkadot/api": "^1.21.1",
     "commander": "^5.1.0",
     "edgeware-node-types": "^2.3.0",
+    "lodash": "^4.17.20",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
     "rxjs": "^6.5.5"
   }
 }
