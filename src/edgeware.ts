@@ -1,8 +1,11 @@
 import { Keyring, ApiRx, WsProvider } from '@polkadot/api';
 import * as edgewareDefinitions from 'edgeware-node-types/dist/definitions';
+import { switchMap } from 'rxjs/operators';
+import { of } from 'rxjs';
 
 import { SignedBlock } from '@polkadot/types/interfaces/runtime';
-import { Call } from '@polkadot/types/interfaces';
+import { Call, AccountId } from '@polkadot/types/interfaces';
+const fs = require('fs');
 
 const types = Object
   .values(edgewareDefinitions)
@@ -69,8 +72,8 @@ const parseBlock = (signedBlock: SignedBlock, cb) => {
   });
 };
 
-export const pollAllAccounts = async (api: ApiRx, cb: Function, top: number) => {
-  console.log(`Highest ${top}`);
+export const pollAllAccounts = async (api: ApiRx, cb: Function, top: number, low?: number) => {
+  console.log(`Highest ${top}, lowest ${low}`);
   for (let i = top; i > 0; i--) {
     if (i % 10000 === 0) console.log(i);
     try {
@@ -81,8 +84,36 @@ export const pollAllAccounts = async (api: ApiRx, cb: Function, top: number) => 
     } catch (e) {
       console.log(`Failed on block ${i}`);
     }
+
+    if (i <= low) {
+      break;
+    }
   }
 }
+
+export const queryBalances = async (api: ApiRx) => {
+  const accountsData = fs.readFileSync('./accounts.json');
+  const accounts = JSON.parse(accountsData).accounts;
+  const zeroBals = [];
+  await api.query.system.account.multi(accounts)
+  .pipe(switchMap((accts: AccountId[]) => {
+    accts.forEach((a, inx) => {
+      if (a.toHuman()['data'].free === '0') {
+        zeroBals.push(accounts[inx]);
+      }
+    });
+    fs.writeFileSync('./zerobalss.json', zeroBals);
+    return of(accounts);
+  })).toPromise();
+  // const res = await api.query.system.account.multi(accounts).toPromise();
+  // console.log(res);
+  // for (let i = 0; i < accounts.length; i++) {
+  //   const sRes = await api.query.system.accounts('joqW6rXUrzdcQ8dJztJdzL9B2Tm2zedeun4mddowb31SAGp').toPromise();
+  //   console.log(accounts[i], sRes);
+  // }
+
+  fs.writeFileSync('./accounts.json', accountsData);
+};
 
 export const subscribeToAccounts = (api: ApiRx, cb: Function, top: number = 2500000) => {
   return new Promise((resolve) => {

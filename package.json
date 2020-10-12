@@ -7,8 +7,11 @@
   "license": "MIT",
   "scripts": {
     "addmore": "ts-node -P ./tsconfig.json src/addMore.ts",
+    "queryBalances": "ts-node -P ./tsconfig.json src/index.ts --queryBalances",
     "scrape": "ts-node -P ./tsconfig.json src/index.ts --events",
-    "start": "ts-node -P ./tsconfig.json src/index.ts"
+    "scrape-from-dump": "ts-node -P ./tsconfig.json src/index.ts --scrape",
+    "start": "ts-node -P ./tsconfig.json src/index.ts",
+    "create-types": "ts-node -P ./tsconfig.json src/index.ts --create"
   },
   "dependencies": {
     "@polkadot/api": "^1.21.1",

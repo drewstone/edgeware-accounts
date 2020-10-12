@@ -1,0 +1,343 @@
+export default () => ([
+  [
+    [
+      '0x17288a4b16289264f133ceb224e7c527aad8910accba628139aeb2d9e6f4d4bc',
+    ],
+    [
+      'jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5',
+      {
+        Raw: 'Registrar  0',
+      }
+    ]
+  ],
+  [
+    [
+      '0x19dd50e5602c75bbcb1807985092ab4c31a3d8cf4df15a095a7b2227a17a6ffd',
+    ],
+    [
+      'nbNZSrJP5r3aYFoZHfcvGGp8eV2GZ3RhLKKri4aMo6ZTR7Z',
+      {
+        Raw: '2',
+      }
+    ]
+  ],
+  [
+    [
+      '0x23afa7f3c8afffaf415c6b1da4c4d1b5dfd760f5ab977b90e9d153bb5fc819ed',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 4',
+      }
+    ]
+  ],
+  [
+    [
+      '0x2839b5c66130bbf248eeea3aaba10262ccd47782ff7fa5812f60217fb63becbb',
+    ],
+    [
+      'i1q6553f96RUqe2S1n2WXxg82gbR4uQCKM5sSm1h3THKHZt',
+      {
+        Raw: ' 5',
+      }
+    ]
+  ],
+  [
+    [
+      '0x284d8620e92c618daef16a08737d4b77c85ea93eff8243f93aa283a42917fdf5',
+    ],
+    [
+      'i1q6553f96RUqe2S1n2WXxg82gbR4uQCKM5sSm1h3THKHZt',
+      {
+        Raw: ' 6',
+      }
+    ]
+  ],
+  [
+    [
+      '0x28ff389b02a6536c96f3ee49f350bcc85ccd44bbe24aab345a36984d19edf057',
+    ],
+    [
+      'jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5',
+      {
+        Raw: 'Commonwealth ID',
+      }
+    ]
+  ],
+  [
+    [
+      '0x34488a494b447eacc273834c300d7200f5f3f1bf95043d4668d77cae57294fd2',
+    ],
+    [
+      'jHGaxhttUUzjgApaYBQDNdR2kPCHEJT5SnVnghHTHZGweCi',
+      {
+        Raw: '2',
+      }
+    ]
+  ],
+  [
+    [
+      '0x34680e51c9f32dc3fa5dc56451af6525c82236e172fc62b6df4d16cc6c0044fb',
+    ],
+    [
+      'nbNZSrJP5r3aYFoZHfcvGGp8eV2GZ3RhLKKri4aMo6ZTR7Z',
+      {
+        Raw: '1',
+      }
+    ]
+  ],
+  [
+    [
+      '0x480cf791c9e848d9e2233b1635488e5ba3469e1d4b77f064b8a5b0e7694e3270',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 7',
+      }
+    ]
+  ],
+  [
+    [
+      '0x5595e04f45b4bed893e7a15ef011a162e0001b77d16efdc2d69e63d3150e0dff',
+    ],
+    [
+      'nbNZSrJP5r3aYFoZHfcvGGp8eV2GZ3RhLKKri4aMo6ZTR7Z',
+      {
+        Raw: '0',
+      }
+    ]
+  ],
+  [
+    [
+      '0x845db3fd50f60274a5941b81b02ce69e25cb4ad18937fbee8235492f4f47028f',
+    ],
+    [
+      'kYZWMWQMRDLMQP8E7G1sCSnjtYo26MedZWN39VBvzkZnUQm',
+      {
+        Raw: 'Staked Validator 2',
+      }
+    ]
+  ],
+  [
+    [
+      '0x8880ab94926179a80602aab39a456035714a944d7891224800a3d75247c3b8d9',
+    ],
+    [
+      'jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5',
+      {
+        Raw: 'Alt 1',
+      }
+    ]
+  ],
+  [
+    [
+      '0x928641f43ca504cb87ae95e18ae2948a86cfe2da37b3f01e097c391f9f59509d',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 5',
+      }
+    ]
+  ],
+  [
+    [
+      '0x97307c303b91cf0049eaa3e62426bf23196f21cde188a41c314f6c0e485be782',
+    ],
+    [
+      'nbNZSrJP5r3aYFoZHfcvGGp8eV2GZ3RhLKKri4aMo6ZTR7Z',
+      {
+        Raw: '3',
+      }
+    ]
+  ],
+  [
+    [
+      '0x9f6c815c5c52dd0bcfb72ec1d73d6ab4c91f012ba586bac402e4d6fd0f626e3e',
+    ],
+    [
+      'ivZyeMyK1sbgZdnTb7XFHdgLiDtwyF94dGVpL63uzSCfk8T',
+      {
+        Raw: 'B',
+      }
+    ]
+  ],
+  [
+    [
+      '0xa5a9bce675a00020b93fa8bbe5af0da7e61006b1563bf1f21febde3a60c04392',
+    ],
+    [
+      'kYZWMWQMRDLMQP8E7G1sCSnjtYo26MedZWN39VBvzkZnUQm',
+      {
+        Raw: 'Staked Validator 0',
+      }
+    ]
+  ],
+  [
+    [
+      '0xb97b8c81d380566bb88a14be601d9d3eae52a3f7041827edba5600bf723fab3b',
+    ],
+    [
+      'nbNZSrJP5r3aYFoZHfcvGGp8eV2GZ3RhLKKri4aMo6ZTR7Z',
+      {
+        Raw: '4',
+      }
+    ]
+  ],
+  [
+    [
+      '0xbd6f55f0f11921c53c641acf28abe00a9c05cd414608a77080c4e7c5c7de001f',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 2',
+      }
+    ]
+  ],
+  [
+    [
+      '0xbe913d19d362e833d38c2f90e4fc7ec37d69ea323504badc41b852a18133219b',
+    ],
+    [
+      'i1q6553f96RUqe2S1n2WXxg82gbR4uQCKM5sSm1h3THKHZt',
+      {
+        Raw: ' 4',
+      }
+    ]
+  ],
+  [
+    [
+      '0xc38d1228b795fdca901fd0c78de30f369d27ee2a52716842c879d3bf6bf1ace4',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 1',
+      }
+    ]
+  ],
+  [
+    [
+      '0xcbde6e102aa508488a0a5b458990e7f7386144b7fc419795c47b6d6ca1ffc5a6',
+    ],
+    [
+      'kYZWMWQMRDLMQP8E7G1sCSnjtYo26MedZWN39VBvzkZnUQm',
+      {
+        Raw: 'Staked Validator 3',
+      }
+    ]
+  ],
+  [
+    [
+      '0xcbe14d03c27240b44ec2941a6ac0b8f15f4f40fa514ebf436ff99ac372509043',
+    ],
+    [
+      'jKauGVPCQkteGTDKuuNwhYhMBrj5QuytgybEC4A5cS4Bki5',
+      {
+        Raw: 'Controller',
+      }
+    ]
+  ],
+  [
+    [
+      '0xcdb877e04e3b695e0b594a8e53604b21495e5989e1b984c7cbf0a946dc4eb1e8',
+    ],
+    [
+      'nbNZSrJP5r3aYFoZHfcvGGp8eV2GZ3RhLKKri4aMo6ZTR7Z',
+      {
+        Raw: '5',
+      }
+    ]
+  ],
+  [
+    [
+      '0xcfaaf02ff31502888eb09e91b9970b6fbc3e8a4aa0c3323833db3a126f6f8173',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 8',
+      }
+    ]
+  ],
+  [
+    [
+      '0xd55b3500cbda3d78af0c5927c589d65a255f5e1714418da3cb28e09d17ea3e4b',
+    ],
+    [
+      'kYZWMWQMRDLMQP8E7G1sCSnjtYo26MedZWN39VBvzkZnUQm',
+      {
+        Raw: 'Staked Validator 1',
+      }
+    ]
+  ],
+  [
+    [
+      '0xe6ac4a2584400eeb05eb3bb61691ed03151e7a57a75a5fa170b43b3628f42e17',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 3',
+      }
+    ]
+  ],
+  [
+    [
+      '0xe9e21aa455a6d171ece8c7ff0c1ba35a4d2ca9191f4dc442f9186cac702064af',
+    ],
+    [
+      'i1q6553f96RUqe2S1n2WXxg82gbR4uQCKM5sSm1h3THKHZt',
+      {
+        Raw: ' 2',
+      }
+    ]
+  ],
+  [
+    [
+      '0xece04a17bf784981038ff79015a0dac37d50dcbbc5edc1b52c22679546583cb1',
+    ],
+    [
+      'i1q6553f96RUqe2S1n2WXxg82gbR4uQCKM5sSm1h3THKHZt',
+      {
+        Raw: ' 7',
+      }
+    ]
+  ],
+  [
+    [
+      '0xf5eb02541029165d2e536135c28971ede0169feb362d98974d434bcf52c3d6c3',
+    ],
+    [
+      'nmCGq5kRMsrUwCxyxGykmnptwzW9iky3t5BkTZ4jvwMQfj1',
+      {
+        Raw: 'voyager',
+      }
+    ]
+  ],
+  [
+    [
+      '0xfdc281a44139a1d786cc8c0c5e1f49fea75fffeed3f6cbc7202705459fe6e343',
+    ],
+    [
+      'i1q6553f96RUqe2S1n2WXxg82gbR4uQCKM5sSm1h3THKHZt',
+      {
+        Raw: ' 3',
+      }
+    ]
+  ],
+  [
+    [
+      '0xfeec45cba94289e47cbb02c9da9d9a4fc0ad6673c6211d3752dbb8de363a63f1',
+    ],
+    [
+      'insiNVJUE9C6sLS233ZFKkz1mL5yXoVwb2Jsu8uexfQjih1',
+      {
+        Raw: 'Bison Trails 6',
+      }
+    ]
+  ]
+]);

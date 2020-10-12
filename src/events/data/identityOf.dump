@@ -1,0 +1,5228 @@
+[
+  [
+    [
+      0x01c80c96aed4ac935a918690d50600f04770836d02bc74339fd7766997f4d475
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: phu-stake
+        },
+        legal: {
+          Raw: Phan Nhat Phu
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: phupn1510@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x046e5147d5548dfb71128c7c8abebaccd384bef484e00805706e330903e4bfb7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203130
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x0a857322d86a8c8c44ef87e475269abeb49d0b47f444deda590933b4dd3c63a7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Bauhaus Labs
+        },
+        legal: {
+          Raw: Bauhaus Labs LLC
+        },
+        web: {
+          Raw: https://bauhauslabs.com
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@bauhauslabs.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x0ed76887c15aafaaf778b798df38f4d188638cab41bcf552c108af819bd025e2
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Phil
+        },
+        legal: {
+          Raw: Phil
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          Raw: @phillux:matrix.parity.io
+        },
+        email: {
+          Raw: phil@parity.io
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @ph_lux
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x0f16c85d2edf548091fc6cd492d4bad6f6036ee6f5aa60a539dce5a6766195dd
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: n stake holder
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x1038013d3a388bc6f16396ddbc533dc5502b7504e765811558dcaa34f389fdf0
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          None: null
+        },
+        legal: {
+          Raw: 
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: 
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x11107779b28bde20dc6d25f787ce322ff76a5e5add82d9f644d1ae0dd7d06059
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203033
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x11320ae78b67bc3cc132f878791c063a4085531c801f4f2f2e216ebefa7ab69d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Everstake
+        },
+        legal: {
+          Raw: Everstake
+        },
+        web: {
+          Raw: https://everstake.one
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: inbox@everstake.one
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @everstake_pool
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x116d0bed120fc52ff8d2b3f28ac9d8b280a9ea965dbf107a502ed676ccda4954
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staker Space
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://staker.space
+        },
+        riot: {
+          Raw: @gnossienli:matrix.org
+        },
+        email: {
+          Raw: hello@staker.space
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @StakerSpace
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x12a9f4f6fe68870ce3b8e3c8e0f2edb008eff68782b6d5553bf34d21a044db05
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: redpenguin
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: http://redpenguin.xyz
+        },
+        riot: {
+          Raw: @redpenguin:matrix.org
+        },
+        email: {
+          Raw: redpenguin@polkadot.pro
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x133d178abeee992b8dd84b0a97fcfaa1ad8e2bf82b067a21d096a39e2ed80a6f
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Silent Bob
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x137548c71edcca875d889aa0b278b4961caaa01bb40cbff030dcf208d8086b58
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0x4a414d20e298a0efb88ff09f908d
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          Raw: @joshuam10o:matrix.parity.io
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: jam10o
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x160ea8267e6c229b08380a5e65f34a49e691f7b04b978373e0aabd9ec99f1daf
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Figment Networks #4
+        },
+        legal: {
+          Raw: Figment Networks Inc.
+        },
+        web: {
+          Raw: https://figment.network
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@figment.network
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x16b9d3876d8537cf14fd1dc630b115fab64a98f671eb0d0f00c11d826e85afaa
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: HashQuark02
+        },
+        legal: {
+          Raw: HashQuark
+        },
+        web: {
+          Raw: https://www.hashquark.io/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x1e1c51419b77186aa542b5eb21e218ee19c7fb2c3d9ed4528cc9ef9c98f17993
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: BLOCK_ANALYSIS I
+        },
+        legal: {
+          Raw: BLOCKCHAIN DATA ANALYSIS
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: i@polkadot.live
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x22dad9ad2001a3dd3421f963b4a5872f2be7ca6ad2ea036e50c92d803f5c783d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 04 melea community vali
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://meleatrust.com/edgeware/
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          Raw: meleacrypto@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/cryptomelea
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x23405e359d718f22229fd62a8029a4f1d35e9150e4490c6aa0c75eb7d5931f44
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Lu@MathWallet (extension)
+        },
+        legal: {
+          Raw: Lu@MathWallet
+        },
+        web: {
+          Raw: www.MathWallet.org
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x25275a1e34a6531678e6161ee572003a8c4a7d520995dc80fd79bb21c7cfcc98
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CYBERNETWORK
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: cybernetwork.ai@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x26d48d7fb00b07eb411c6e060652993b302334dc372034ee36c436b77593de6a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: HashQuark01
+        },
+        legal: {
+          Raw: HashQuark
+        },
+        web: {
+          Raw: https://www.hashquark.io/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x2de4952a8b0783fd93072d775d58284999f6a0d11de40f183f0d3dc1c1f70789
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: BLOCK_ANALYSIS II
+        },
+        legal: {
+          Raw: Blockchain Data Analysis
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: i@polkadot.live
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x2eb42701aaad0612c12872d03649ceb436d80393a4e66ebbf3c77f47eb653e79
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: syt
+        },
+        legal: {
+          Raw: syt
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x2fb076fc1b6e0755db13a20f46e91ce07cfbd4e71231a686b2f576652e6f3417
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CW-VAL-9-STASH (extension)
+        },
+        legal: {
+          Raw: Commonwealth Labs #2
+        },
+        web: {
+          Raw: commonwealth.im
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hello@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: hicommonwealth
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x30b4f7e23f880f8d52aeb7cffe675863be132b73f818f84051cefb9eca641b2d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Martin Krung
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: www.bankless.ch
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: martinkrung
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x316d7b341335f31bab43398e0cb4e9af987f2098229c42e72f3e98e0b1389067
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: melea community 01
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://meleatrust.com/edgeware/
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          Raw: meleacrypto@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          BlakeTwo256: https://twitter.com/cryptomeleab
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x31ab7445d254dbcf383fd014763b80337c965f724ffba84673b3c82e673a4549
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CW-VAL-10-STASH (extension)
+        },
+        legal: {
+          Raw: Commonwealth Labs #1
+        },
+        web: {
+          Raw: commonwealth.im
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hello@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: hicommonwealth
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x36247a7d5ce7036b61f8f86d040ee2560fe3f853a2d98443f11e33633507e660
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 02 melea community vali
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://meleatrust.com/edgeware/
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          Raw: meleacrypto@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x3648bfde997a0a0cc9bb234e9136c39c77773edcc638d141333a0743ac5e5643
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203031
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x3f9f1d0878323af50f4666d99324ec0934c2fcefd03dec19cb0b4d37a9d44d4d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: HashQuark03
+        },
+        legal: {
+          Raw: HashQuark
+        },
+        web: {
+          Raw: https://www.hashquark.io
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x41cb8e62c95d8b798219777cccfcfceca1325524eddc2c8e73e5062533b87dd7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: GK Polka (extension)
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4224d230c000e63a4c325d8c561fc37628f0909eb90e31f963982e3ccc9032dc
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            KnownGood: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Drew
+        },
+        legal: {
+          Raw: Drew Stone
+        },
+        web: {
+          Raw: drewst.one
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: drew@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: drew___stone
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x42c2a23358bd020ff2ab134e3b25855afbfa2e68bc8944c05c59b9b12d7b4492
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0x3031e28692206d656c656120636f6d6d756e6974792076616c69
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://meleatrust.com/edgeware/
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          Raw: meleacrypto@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4945a37ba3d0d9b252549d5601b51e0b8cc8a47eba2581694a6f04295b11e1d1
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203036
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4a687c3680390d42ecc15bed4df355d5821ae966751a0dfcab8c096c98ce62f8
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EDG MAIN CTRL 1
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4a6f74010b25c57c87d33e48e368714b05e13bd38ac9c327609084e1d66e6d5b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: INCHAINWORKS
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: www.inchain.works
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@inchain.works
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          BlakeTwo256: https://twitter.com/inchain_work
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4b6954bf9decf6a0dc836bc66ac0b7151771983d6565159fc9080d8c5e2f632a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: em2 controller
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4b741f19763cbcf74ea41f40f03e3a980083c7436fb3a8e2034a2969455d87cc
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Dialectic Edgeware
+        },
+        legal: {
+          Raw: Dialectic Edgeware
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: rz@dialectic.ch
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4f36b172e00be4f090b31710e825c1a174e98185a9a89d3a83fb41563225d018
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203032
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4f87705bf1ac307346c4614e5034b4ac3546837dec783a6e10a7bcb228827c7b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: deludid authority
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x4fd4d4b508b3bfa70bf820d707134b9f7e98b5c5a2ff84132c229b6af57a7d3e
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            KnownGood: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Thom Ivy
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x557fe00c71bce5677c371e32ea188119cf6f04dbad2c0df5ce15dbc3bd2dd545
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: yangwao
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://hypersignal.xyz
+        },
+        riot: {
+          Raw: @yangwao:matrix.org
+        },
+        email: {
+          Raw: ybdaba@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @yangwao
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x55b980efc5f57b9811246163c0e171392218dc4f94b62d7c9c67a88f88c08d22
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xe5b08fe7bbbff09f8d83
+        },
+        legal: {
+          Raw: yakio
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          Raw: @yakio:matrix.org
+        },
+        email: {
+          Raw: yakioliu@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x56e5536b5d1e07c8e52b524760d3f0068264298212899f3303f2f538a5edf887
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: highskid
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x5c21d5733b98039182c9e657915169a92ce8c039b26c1ddf36e2c68e707e3f7b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CRYPTO HUMANIST
+        },
+        legal: {
+          Raw: CRYPTO HUMANIST
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x5ca41369f83f1751279eae69f3475ff3ff6e4ba5006c6df75d81010229d44fbf
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: FIGMENT NETWORKS #2
+        },
+        legal: {
+          Raw: Figment Networks Inc.
+        },
+        web: {
+          Raw: https://figment.network/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@figment.network
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Keccak256: https://twitter.com/FigmentNetwo
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x5d3d7714af8b68679a9f1dfec6c31dbdbe03490e210cdeaf0abc7f4039ed87e7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: edgeware (n00b)
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x5d9bdf6af543ebd38389b2d85c8f491e0976537dce0eb0a53dba92c0e244300b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: SSSnodes
+        },
+        legal: {
+          Raw: SSSnodes
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x5e590d1a4690962df7c60990851309442ef65378a0809faf6871f4380a344f5e
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: test
+        },
+        legal: {
+          Raw: test
+        },
+        web: {
+          Raw: test
+        },
+        riot: {
+          Raw: test
+        },
+        email: {
+          Raw: test
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x5f837494731bf88c5beea9966090f1925a324b9f95f21cec7f242b03139f0b02
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EDGEOCRACY
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x6225089463ff9148706a4e3f87ed3c09d3615af38344af400635356a00a50745
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: wp3
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x62b899eb6bfd939bfee9575c92d23c8337d688115e3eb5677a49c2f91ef34963
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: cats controller
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x637caa6d9ed51d4169c36fe9f440dfb81aa2bef51551df972223ed3c8be9fc5a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Wetez1
+        },
+        legal: {
+          Raw: Wetez
+        },
+        web: {
+          Raw: https://www.wetez.io
+        },
+        riot: {
+          Raw: Wetez
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: Wetez
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x64013a9608773ca7aaddf784c60128bb7ddc8d05db5fdbee942dca547d6533e0
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: cryptovestor
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: _cryptovestor
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x647817d3b135ba2a7cef180028ea6debb4064f8ef692463307b737f44b2d30dc
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203035
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x664074929ae7735e36a5fcf9425387dea3c05bee7c6ea50c1ea595a3c88daec9
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #8
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x6669391947a808e290e0f86a4a9d070f8890e35b2981e46afad1a73027ae1836
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #6
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x6cdf3fb1ccd3d33ff7f868b4451caa56fcdd9c09ab484f79adfa90fade6e566c
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: cybernet
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: cybernetwork.ai@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x6d08c557de1917a394a34a659d3c1d49f309b5d7de5093911849b8872fbe0ea8
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Andrew-Alacrity
+        },
+        legal: {
+          Raw: A.C.A.
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x6e892f65274e270d9e1f485919c47ea2125d3960a3f9b5775fb2f0ee7091f6b1
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: apopiak
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          Raw: @apopiak:matrix.parity.io
+        },
+        email: {
+          Raw: apopiak@parity.io
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x714f3bdf0793a02701888c217ee3c9e4fead7372a95310d5dec1428f419a10de
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: wp3 authority
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x7177925b2af13b1810feb5add31d509bcf3149e695816bbfbb7baebc96f565db
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Severus
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x73078024b19d7bb0c6bb1678178c52077f904631398586025707ec6a54fb33ed
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #10
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x743b4872eeecd8583bcd414fd3de6e2f177cb30f79b8123df8b592d7d20ed57a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: KR1
+        },
+        legal: {
+          Raw: KR1 plc (KR1:NEX)
+        },
+        web: {
+          Raw: www.KR1.io
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: team@KR1.io
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: KR1plc
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x74541bdd4cff9cb1c267f7fb6ad77dabfdf21031520574a8814997e702d1a087
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Michael - Framework Ventures
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x75c2e005ddd620980329af5bcd80d0126931ba99168d701945c482df5ceb9d64
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EM2 authority
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x7622e82d12f088d45c508557edab0c8278c8242a8692fbbdf9c73cb2c60aed16
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0x5473756b6920f09f8c95
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x76b4f8d583c2962d12f17a74d4c0be33d57eba93229188260a182e42a7c9b395
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Bi23
+        },
+        legal: {
+          Raw: Bi23 Labs
+        },
+        web: {
+          Raw: https://bi23.com
+        },
+        riot: {
+          Raw: bi23
+        },
+        email: {
+          Raw: support@bi23. com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: bi23com
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x78ef3149886dc3ede7907c35668ac609fec42c1dffb58423f4694ab08fcabd6f
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: cats stash
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x797070c0b8fb91706f53a647cbeab9863b82f08e18f528b82044d7f685439078
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Nodeasy.com
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://www.nodeasy.com
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x7a5163d73e976e7ff4df06fd4cdb812d96f02aa9632d6acfa6f16c8531b03006
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: wp3 controller
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x7edc6d14f7c4395cfe0e1f7fa2f5ac82a8fccda884886e00ea606b70a7964ff1
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: cats authority
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x7fdaa675f0ffc514e06114bae7ea3d71a035df578f96865fbfe0c0ed2cd156b7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203039
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x80b2bae32d28869d031f6d5b89e737564293bc3a5590399042a16a6a2598e098
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Commonwealth Grants
+        },
+        legal: {
+          Raw: Commonwealth Grants
+        },
+        web: {
+          Raw: https://commonwealth.im
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hello@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @hicommonwealth
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x81f202ac452927f0ec32063f59b4cb4b09c600ee69a420256e7dc00bd5bfc09c
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: verso
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x875a7a773d4d086c305d38a079c922ac933f20dc8ead7511e14a7f9344a1b332
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: PhilH
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: philh@erisma.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @phil_h
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x878a2730a52809b6a7d86ea215c59300e06bf1c2e625cbf9cf027f0dc0781d22
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EDG Lockdrop (extension)
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8880ab94926179a80602aab39a456035714a944d7891224800a3d75247c3b8d9
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            KnownGood: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Thom Ivy
+        },
+        legal: {
+          Raw: Thom Ivy
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: thom@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: thom_ivy_1
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x897ea6f378dbbb1e05c8e139e1fa45711217ca8d8a676d99578451897a3976f2
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Xnode
+        },
+        legal: {
+          Raw: 0xe1839ae29789e29da4e29789e1839a
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8b46cf604417b50073aa5bf64889abfbc24d7dd1ac1d562cc246a54bfdcfe8f6
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EDGEWARE
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8b8872f5e7346b1d4a797eff019de179933e9d0a5c9558924e8ee25d128f46ef
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: em2
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8bd00eb27bae005aa1f77f0af4b26acd0c421cef08eac36e5a4b380805572e2e
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #7
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8c34c6e0d60d0e4fb4b945f040456feda00a9f724f773434f80f96b61806b89a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: luckyve
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8c5ad625839e95be56e9f4ae28855c79dea8b29c29ea539ce1b829fc38a69772
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Figment Networks #5
+        },
+        legal: {
+          Raw: Figment Networks Inc.
+        },
+        web: {
+          Raw: https://figment.network
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@figment.network
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x8f7be4f9025a267b83694397d319e4856539ecb71988e99c252c8441c1c22928
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            KnownGood: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: raymondz
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: raymond@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x90b16ebbdbe679e431cfdc72b9909d8c6d5b4b4b6454bd5db9e42e955b35278d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203037
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x921946d366a89d635b83b5bcba243b6625d222568eaf9445f79941467b2e9f9c
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: W3F-000
+        },
+        legal: {
+          Raw: Web 3.0 Technologies Stiftung
+        },
+        web: {
+          Raw: https://web3.foundation/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: devops@web3.foundation
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x94b073038b439fa99fc74e867fda6169b4adac56ce3be3492aa21a79a034e382
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Rabeel
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: seedcode.io
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: rabeel@seedcode.io
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x974fed7fbc843bae4a06ef463331473e018a82e6e3bbfe8cae804b6abfda31a1
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: deludid
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x979dbc00c20477b70d9d9e526dbeb7e2101e48af3abeb59a0f860216e6008278
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: vires in numeris
+        },
+        legal: {
+          Raw: reliable staking services
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x9885dd5adccbaf5a5c4986e042c57eab85420de1cb508474a6263c9badf070cd
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: deludid controller
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x9a3ec6df2c05bd62cd49f235ae7230355eb23dc8fc28caf7538e7050f3bfbd7e
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: em2 stash
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x9dc660db2c4a1a4bc025b4e6031a19c3b856e39ea29923eaeb531496b2e5b748
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            KnownGood: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: dillchen
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: dillon@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @dillchen
+        }
+      }
+    }
+  ],
+  [
+    [
+      0x9e1dd204ab63cf6e0c6ca44b9c4b5774474e823b2a4d1deaca7cfcfc4b994f4a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #1
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xa009ce1bac42ca5d7f93c6476e87c10d7e925f1d056f7b22ccf2a8e0b0b721c7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CIA
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xa19992072c069ebe117932ec638471393aa6cd9eeb2b18157201073133a31bb4
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Luis
+        },
+        legal: {
+          Raw: Luis Ramirez
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: ramirez.immersion@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: lu_ramz0
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xa2e039b7c289301aae1ccd8db8b87a904e6d26d39904547dff72b935ff7a5262
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: huobi global
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xa30a55243c18201b76e2c6e6c427689314ef9e4fcc37cdd550696ce9c43a5688
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: SNZPool
+        },
+        legal: {
+          Raw: SNZPool
+        },
+        web: {
+          Raw: https://snzholding.com
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/snzholding
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xa4fa130e8c028217c43a1fe8a253e3533064cbd626c395e34a1d457bfe53907b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #4
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xaa2fa5d71ff5146ab2d248b28f63cf72bec1eb53f932f6e5e39b20c6c1875f8d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203038
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xab791e85f11a92ee47795299b63744c883b57097cb68e507cceea451670ab990
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: stakefish
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xaeca34621548e515be05658ef40262e3bcaed14607075139ad7120bbe1a9572d
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Bison Trails
+        },
+        legal: {
+          Raw: Bison Trails Co.
+        },
+        web: {
+          Raw: bisontrails.co
+        },
+        riot: {
+          Raw: @bisontrails:matrix.org
+        },
+        email: {
+          Raw: support@bisontrails.co
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xb021e48f645a7ce200cab9db2cf10eefebe6f20453a4afeb320388baca9d1b5d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Bi23
+        },
+        legal: {
+          Raw: Bi23
+        },
+        web: {
+          Raw: https://bi23.com
+        },
+        riot: {
+          Raw: bi23
+        },
+        email: {
+          Raw: support@bi23.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: bi23com
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xb6ab1f77fa862b913415d516217a5a2830286c9f1a5dfc298b2a2031a9bf4e19
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: builDAO Multisig
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xb80f5811ec460a5bf3a4c78892c45c6b391ef22f1bbae82658b3fcc3822518d2
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: jnaviask
+        },
+        legal: {
+          Raw: Jake Naviasky
+        },
+        web: {
+          Raw: twitter.com/JakeNaviasky
+        },
+        riot: {
+          Raw: jnaviask
+        },
+        email: {
+          Raw: jnaviask@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: JakeNaviasky
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xb895240e4c63409e79a74f091fc3f55df19b0eaff0b80751ebe1a962292a4b7b
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f8d9252594142494e4120f09f8d92c2a0
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://ryabina.io/
+        },
+        riot: {
+          Raw: @ryabina:matrix.org
+        },
+        email: {
+          Raw: info@ryabina.io
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @ryabinaio
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xbd0d46ac6c16af67c6983408accd45f62d73d52bebf8a6b98b05584073413b3a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CW-VAL-8-STASH (extension)
+        },
+        legal: {
+          Raw: Commonwealth Labs #3
+        },
+        web: {
+          Raw: commonwealth.im
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hello@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: hicommonwealth
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xbd2f078afd0ae5bc03ce4c39447799c66a976ad46caf66b572dc974dd1e155a4
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: deludid stash
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xbe552662dd8ecc414e8b98f38b3a20066002735054a26fd277b727a4fe5b4a7e
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 03 melea community vali
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://meleatrust.com/edgeware/
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          Raw: meleacrypto@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/cryptomelea
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xbe5795ec74ae3f25ec241d057ec986c6af0255557de420b3210c9f33cb545fc9
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: n stake controller
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xbfe4c7a27ac0ac0573fcd94ddeafaebb36d4b1390888025a28cfd831497e71b4
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CP287
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://cp0x.com
+        },
+        riot: {
+          Raw: @illlefr4u:matrix.org
+        },
+        email: {
+          Raw: illlefr4u@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/kaplansky1
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xc4da1eaef20ea07e8bec5bf0f4e622eca26c4836e51f7913b98a149a870864e7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: raymondz stash
+        },
+        legal: {
+          Raw: Raymond Zhong
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: raymond@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: raymondzhong
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xc6f9055f3d83b2b389ceb258ad16c2cb7994ae65fe719afc754c103f4a470942
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CAT main
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xc785dafae6382d1d590c342f462943a5063a02b40149a1878a20f961a3bce855
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Shankar Warang
+        },
+        legal: {
+          Raw: Shankar Warang
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          Raw: @shankarwarang:matrix.org
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @WarangShankar
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xca8fd18633dd319ad2a16512bf34927e2cd0f4a0e95cc525e142fe84618bd077
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: ALACRITY_STASH
+        },
+        legal: {
+          Raw: A.C.A.
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xccca7036ce86c66f3b67715aa884b685608059145f87849f8b7c5d593229b3b7
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: SAY.RYABINA
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xcd5fb1f46e50dd9aa82899889f4bf0d9904be18adbae71ac6261aea6aa2c3ce2
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #2
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xd13736e30054ff2dc3c27ae2457fbe4a8f790e68f3e3cebe270341bf41f91f0e
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #5
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xd2301005e79b66a7cd9d2241a1e3f9a6713742c4c852d0731a00beb50bbb0919
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: John
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xd4147a3695af50aca997318db585fa7629834bd078c8cf59b6c7b9d39736c444
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EDG1
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xd6c0243c0d338daa993b92e32872f36fce3c8a996d5951851d57bf6507258321
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #9
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xdbd0a9f57fdfc9d9a0c7b3cb3153b4a13dbaea125e2ff5854d1705f2a081001e
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: StakedTech
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://www.staked.tech/
+        },
+        riot: {
+          Raw: @matherceg:matrix.org
+        },
+        email: {
+          Raw: staked.tech@protonmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xdbe70d33bf5d84a0b20b60149060ac327a89a82b389ff23714a0461ac91318c9
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CW-VAL-7-STASH (extension)
+        },
+        legal: {
+          Raw: Commonwealth Labs #4
+        },
+        web: {
+          Raw: commonwealth.im
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hello@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: hicommonwealth
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xdda11936b08a1a9becd5900808cc028b453c1ac73c373bb70a72a5ced5a37cbc
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: melea community 02
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://meleatrust.com/edgeware/
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          Raw: meleacrypto@gmail.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          BlakeTwo256: https://twitter.com/cryptomeleab
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe14170605dc15a69b9acaea01ecc1098fca568395409d00d32d7f3ddfe0ee5d8
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: AlexEDG
+        },
+        legal: {
+          Raw: Alex
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe16d553141ad78247d9604d9a37958ca6ad80a024c811a05fcbf31d2c17f5348
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: nnt
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: nick@1confirmation.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/NTmoney
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe2c878ae98d91b88009fdec981d0dbfb26c1f10c25e6f8f72add647f52f09920
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: CW-VAL-6-STASH (extension)
+        },
+        legal: {
+          Raw: Commonwealth Labs #5
+        },
+        web: {
+          Raw: commonwealth.im
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hello@commonwealth.im
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: hicommonwealth
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe593302eaad4303a226a0755f24e692c34a1c394646ee10002067f59648db233
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Julius - Staking Facilities
+        },
+        legal: {
+          Raw: Julius Schmidt
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: julius@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe5dd5461d42299b3ec545940d713221a0777180f5113767c857a59c749697fdd
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: MXC POS POOL
+        },
+        legal: {
+          Raw: MXC POS POOL
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe6509a29a0bb1c34f2488879f672d4a44492b73f484a3b81cbf67d4d8137df5a
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: MathWallet
+        },
+        legal: {
+          Raw: MathWallet
+        },
+        web: {
+          Raw: https://www.mathwallet.org
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: labs@mathwallet.org
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe6e3f9e0367e24f30b93b5549e0da6660dee4056a8eb437220f08a609a4842f8
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Validators.Online
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://validators.online/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@validators.online
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/validatorsO
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe7f505ea01d86f93bfa9ef1248069a87c39ee02120db37dc1eb9254f66f5e07c
+    ],
+    {
+      judgements: [
+        [
+          0,
+          {
+            Reasonable: null
+          }
+        ]
+      ],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09fa794f09f8fbd4020426c6f636b58
+        },
+        legal: {
+          Raw: BlockX Labs
+        },
+        web: {
+          Raw: https://blockxlabs.com
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe835df17859bcd59a09e837f78e668af24abc5245b0cd8119c36289bdd88d1ad
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: ediebrishokle(onchain)
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xe869b59814daea408f5d338e9c6ec9aeb53067661f7384daf349c17fb25919f1
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Staking Facilities #3
+        },
+        legal: {
+          Raw: Staking Facilities GmbH
+        },
+        web: {
+          Raw: https://stakingfacilities.com/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: info@stakingfacilities.com
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/StakingFac
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xea4b31c27577e11c416bf1be9d82a9083ead9326c26461bafbee9cac4ac4c07d
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0x42697420436174f09f90b1
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://www.bitcat365.com
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/bitcat365
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xec481f1678b419734eaf5410eab9f18c0104f2d8a21cdf355eac32b34db6da8f
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: RunCrypto
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xece04a17bf784981038ff79015a0dac37d50dcbbc5edc1b52c22679546583cb1
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: RYABINA sentry
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xee2eae911275f9e576f19e5e746f6cb65821f37aa2b23bd50b7addec45f047f0
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Bit Cat 02
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: https://www.bitcat365.com
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/bitcat365
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xef8ba8ad81b19993cf3bf868e6521231562695cab1ca054a9a89b0c9c93be259
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Moonlime
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: moonli.me
+        },
+        riot: {
+          Raw: @y3v63n:matrix.org
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: twitter.com/moonli_me
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf0395af8e4be6870e68d0889b7a7248619af2434ed0b122ade555a8472afdb0f
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Lx858501
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf077d44a4b3345d6832d39e9e6dae4d8abee19cc2ef7351b10fe2b67cc75058c
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Test
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf18992e148b70ac9b2a97ba1159af166c2e541059264c38267619327531c867c
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          None: null
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf1e26bce600c3b38e3e15245d15d60529e4a4e9af08398316e1a57e1219d693b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: EDG_CTL
+        },
+        legal: {
+          Raw: El Duderino
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf5345fcf90615609c05f05a18c5f4beb34b3c62b58587a19fc5f2c5b9a42105f
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: melea EDG Councillor
+        },
+        legal: {
+          Raw: melea
+        },
+        web: {
+          Raw: https://github.com/iammelea
+        },
+        riot: {
+          Raw: @melea:matrix.org
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/cryptoMelea
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf5dcab6a86a7d9fd630f88d7d54557e6ac05a243dce579687e64b608419bea19
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Legend
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf706104001df5fbb9a58d5f547fccd944dc688d5bccc3afb71effe34c5522946
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Moonlime-2
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          Raw: moonli.me
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: moonli_me
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf824c02070ec1b0e36db961ad2d5980c34a52c62c6936be085c92a0d7bd0d23b
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f90a07374616b6566697368203034
+        },
+        legal: {
+          Raw: stakefish
+        },
+        web: {
+          Raw: https://stake.fish
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: hi@stake.fish
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: @stakedotfish
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xf958cfdcb1c3754dcd31ede43367acee4bdbf4b36a893db7502a1c1068651992
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: Wetez0
+        },
+        legal: {
+          Raw: Wetez
+        },
+        web: {
+          Raw: https://www.wetez.io
+        },
+        riot: {
+          Raw: Wetez
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: Wetez
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xfab9ebfbe527d37a86cbaac68f03838099c06f8e294a75fdd893d7c507fc5ef9
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: wp3 stash
+        },
+        legal: {
+          None: null
+        },
+        web: {
+          None: null
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          None: null
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          None: null
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xfb894c3bb19046909e474b0bc1b278adeba0122a3a2453b738be7507ef3e7f7c
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: 0xf09f92aa205374616b6564
+        },
+        legal: {
+          Raw: Staked Securely LLC
+        },
+        web: {
+          Raw: staked.us
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: devops@staked.us
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Raw: https://twitter.com/staked_us
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xfc8060eac92419de55edc63352a8da7f483d0bbfb99d1b1cbcb79590a86bddee
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: FIGMENT NETWORKS #3
+        },
+        legal: {
+          Raw: Figment Networks Inc.
+        },
+        web: {
+          Raw: https://figment.network/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@figment.network
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Keccak256: https://twitter.com/FigmentNetwo
+        }
+      }
+    }
+  ],
+  [
+    [
+      0xfdba559ae403be543b0dafc792022c7149d97eb750612fa7ca548cd8fc45a7e9
+    ],
+    {
+      judgements: [],
+      deposit: 10.0000 EDG,
+      info: {
+        additional: [],
+        display: {
+          Raw: FIGMENT NETWORKS #1
+        },
+        legal: {
+          Raw: Figment Networks Inc.
+        },
+        web: {
+          Raw: https://figment.network/
+        },
+        riot: {
+          None: null
+        },
+        email: {
+          Raw: contact@figment.network
+        },
+        pgpFingerprint: null,
+        image: {
+          None: null
+        },
+        twitter: {
+          Keccak256: https://twitter.com/FigmentNetwo
+        }
+      }
+    }
+  ]
+]
